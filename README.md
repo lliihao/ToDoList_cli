@@ -28,7 +28,7 @@
 
 	npm install
 
-### 在本地主机上加载服务（localhost:8888）：
+### 在本地主机上加载服务（localhost:8080）：
 
 	npm run dev
 
